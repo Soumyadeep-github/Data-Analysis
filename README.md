@@ -1,4 +1,4 @@
-# Data-Analyses
+# Data-Analysis
 
 
 Websites experience all kinds of visitor traffic. This traffic can be monitored and the triggers can be set to classify the traffic into their specific channels, for instance Google analytics is used to generate the kind of data that is avalable in the csv file.
