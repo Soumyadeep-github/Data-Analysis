@@ -16,7 +16,7 @@ and view the file. Please run all the cells in that case. The visualisation libr
 with not trusting the notebook when played in an environment other than where it was developed.
 
 ---
-Note - Pardon my inability to wrap the programs into functions. I am still working on the code to make it more readable.
+Note - Pardon the messy code. I am still working on the code to make it more readable.
 
 Your feedback would be highly appreciated.
 
